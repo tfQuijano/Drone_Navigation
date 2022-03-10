@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # license removed for brevity
+# Spiral script based on simple pose message for waypoint
 # rostopic echo /mavros/vision_pose/pose
 import numpy as np
 import rospy
